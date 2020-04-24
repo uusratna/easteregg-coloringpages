@@ -1,0 +1,23 @@
+{
+  "name": "eastereggcoloringpages",
+  "version": "1.0.0",
+  "description": "easter egg coloring pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uusratna/eastereggcoloringpages.git"
+  },
+  "keywords": [
+    "easter",
+    "egg"
+  ],
+  "author": "uus ratna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uusratna/eastereggcoloringpages/issues"
+  },
+  "homepage": "https://github.com/uusratna/eastereggcoloringpages#readme"
+}
